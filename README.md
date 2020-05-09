@@ -13,8 +13,7 @@
  
  * **[Longest Ordered Word Ladder](https://jatin7gupta.github.io/Longest-Ordered-Word-Ladder/)**: Engineering a solution for Ordered Word Ladders.
  
- * **[https://jatin7gupta.github.io/Sliding-Tile-Puzzle/](https://jatin7gupta.github.io/Sliding-Tile-Puzzle/)**: Implementation of Sliding Tile Puzzle in C.
- 
+ * **[Sliding Tile Puzzle](https://jatin7gupta.github.io/Sliding-Tile-Puzzle/)**: Implementation of Sliding Tile Puzzle in C.
  
  
  * **[Ultimate tic-tac-toe](https://jatin7gupta.github.io/Ultimate-tic-tac-toe/)**: AI assignment using mini-max algorithm to play again a predefined opponent on server.

@@ -20,3 +20,7 @@
  
  * **[Tangram](https://jatin7gupta.github.io/Tangram/)**: Implementation of tangram puzzle using Python3. Tangram is a dissection puzzle consisting of seven flat shapes, called tans, which are put together to form shapes.
  
+  * **[Learn How To Learn](https://github.com/jatin7gupta/Learn-How-To-Learn)**: Implementation personal blog in order to learn Angular 4.
+  
+* **[ImmersiveEducator](https://jatin7gupta.github.io/imedu.github.io/)**: A UNITY based immersive (VR) gaming platform for android to help kids aged 8 to 14 years learn programming while having fun solving challenges.
+ 

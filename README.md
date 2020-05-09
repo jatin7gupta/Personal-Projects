@@ -15,5 +15,5 @@
  
  * **[Ultimate tic-tac-toe](https://jatin7gupta.github.io/Ultimate-tic-tac-toe/)**: AI assignment using mini-max algorithm to play again a predefined opponent on server.
  
- * **[Ultimate tic-tac-toe](https://jatin7gupta.github.io/Tangram/)**: Implementation of tangram puzzle using Python3. Tangram is a dissection puzzle consisting of seven flat shapes, called tans, which are put together to form shapes.
+ * **[Tangram](https://jatin7gupta.github.io/Tangram/)**: Implementation of tangram puzzle using Python3. Tangram is a dissection puzzle consisting of seven flat shapes, called tans, which are put together to form shapes.
  

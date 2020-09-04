@@ -1,5 +1,7 @@
 # Personal Projects
 
+* **[Microsoft-Malware-Detection](https://jatin7gupta.github.io/Microsoft-Malware-Detection/)**: A machine learning project to learn and understand different concepts of machine learning. We experimented with different encodings and machine learning algorithm and benchmarked on a balanced dataset.
+
 * **[Doqutor](https://doqutor.github.io/doqutor-core/)**: Identification and simulation of automated security incident response using AWS serverless stack.
 
  * **[Product-Quantization](https://jatin7gupta.github.io/Product-Quantization/)**:This project implements a product quantization-based approach for approximate nearest neighbor search using Inverted multi-index.

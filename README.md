@@ -6,6 +6,8 @@
 
 * **[Doqutor](https://doqutor.github.io/doqutor-core/)**: Identification and simulation of automated security incident response using AWS serverless stack.
 
+ * **[Stacking-Machine-Learning-Method-Pyspark](https://jatin7gupta.github.io/Stacking-Machine-Learning-Method-Pyspark/)**: The project is an implementation of popular stacking machine learning algorithms to get better prediction. We use PySpark for this implementation. It uses Naive Bayes, SVM and Logistic Regression.
+
  * **[Product-Quantization](https://jatin7gupta.github.io/Product-Quantization/)**:This project implements a product quantization-based approach for approximate nearest neighbor search using Inverted multi-index.
  
  * **[Collision-Counting-Locality-Sensitive-Hashing](https://jatin7gupta.github.io/Collision-Counting-Locality-Sensitive-Hashing/)**: This is the implementation for C2LSH algorithm using PySpark with constraints. C2LSH algorithm searches the nearest neighbours (Euclidian space) from the given data points by accepting nearest neighbours using features in the datapoints.

@@ -8,6 +8,9 @@
 
  * **[Product-Quantization](https://jatin7gupta.github.io/Product-Quantization/)**:This project implements a product quantization-based approach for approximate nearest neighbor search using Inverted multi-index.
  
+ * **[Collision-Counting-Locality-Sensitive-Hashing](https://jatin7gupta.github.io/Collision-Counting-Locality-Sensitive-Hashing/)**: This is the implementation for C2LSH algorithm using PySpark with constraints. C2LSH algorithm searches the nearest neighbours (Euclidian space) from the given data points by accepting nearest neighbours using features in the datapoints.
+ 
+ 
  * **[Settle In Sydney](https://jatin7gupta.github.io/Settle-In-Sydney/)**: A machine learning solution to help you settle in Sydney, Australia.
  
  * **[Olympic Medals Data Visualization](https://jatin7gupta.github.io/Olympic_Medals_Data_Visualization/)**: Visualization of Olympic Medals Data using pandas and matplotlib.

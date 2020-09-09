@@ -1,6 +1,6 @@
 # Personal Projects
 
-* **[Microsoft-Malware-Detection](https://jatin7gupta.github.io/Microsoft-Malware-Detection/)**: A machine learning project to learn and understand different concepts of machine learning. We experimented with different encodings and machine learning algorithm and benchmarked on a balanced dataset.
+* **[Microsoft-Malware-Detection](https://jatin7gupta.github.io/Microsoft-Malware-Detection/)**: A project to learn and understand different concepts of machine learning. We experimented with different encodings and machine learning algorithm and benchmarked on a balanced dataset.
 
 * **[Cancer-Cells-Detection-Tracking](https://jatin7gupta.github.io/Cancer-Cells-Detection-Tracking/)**: Detecting and Tracking cancer (HeLa) cells using Computer Vision techniques. The project also detects cell division and analyses cell motion such as speed, distance travelled etc. The project uses OpenCV3 for image processing.
 

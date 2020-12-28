@@ -6,7 +6,7 @@
 
 * **[Doqutor](https://doqutor.github.io/doqutor-core/)**: Identification and simulation of automated security incident response using AWS serverless stack.
 
-* **[Machine Learning Chatbot](https://github.com/jatin7gupta/machine_learning_chatbot)**: Machine Learning based chatbot uses WIT.AI to understand uttrances and gives back answer using microservices.
+* **[Machine Learning Chatbot](https://jatin7gupta.github.io/machine_learning_chatbot/)**: Machine Learning based chatbot uses WIT.AI to understand uttrances and gives back answer using microservices.
 
  * **[Stacking-Machine-Learning-Method-Pyspark](https://jatin7gupta.github.io/Stacking-Machine-Learning-Method-Pyspark/)**: The project is an implementation of popular stacking machine learning algorithms to get better prediction. We use PySpark for this implementation. It uses Naive Bayes, SVM and Logistic Regression.
 

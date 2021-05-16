@@ -4,6 +4,8 @@
 
 * **[Cancer-Cells-Detection-Tracking](https://jatin7gupta.github.io/Cancer-Cells-Detection-Tracking/)**: Detecting and Tracking cancer (HeLa) cells using Computer Vision techniques. The project also detects cell division and analyses cell motion such as speed, distance travelled etc. The project uses OpenCV3 for image processing.
 
+* **[Capstone Project UNSW](https://github.com/jatin7gupta/capstone-project-comp9900-h16a-tahelka)**: Movie Recommendation platform where users can upload reviews and add movies to their watchlist or wishlist.
+
 * **[Doqutor](https://doqutor.github.io/doqutor-core/)**: Identification and simulation of automated security incident response using AWS serverless stack.
 
 * **[Machine Learning Chatbot](https://jatin7gupta.github.io/machine_learning_chatbot/)**: Machine Learning based chatbot uses WIT.AI to understand uttrances and gives back answer using microservices.
